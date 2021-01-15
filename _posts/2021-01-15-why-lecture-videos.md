@@ -85,7 +85,7 @@ accomplish these goals when you are offering a class online.
 **Don't make your own videos.** Probably a bad first point, but it is a
 response I got several times and one I actually agree with: If the perfect
 lectures are already on YouTube, it's a waste not to use them. But I think it
-is really rare to find the "perfect lectures", especially a set covering your
+is really rare to find the "perfect lectures," especially a set covering your
 whole course exactly. So, given the points below, I would advocate an approach
 where, if you find an existing video explaining a concept well, you use it as
 part of your (curated) curriculum.
