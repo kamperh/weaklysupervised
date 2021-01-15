@@ -2,7 +2,7 @@
 title:               'Weakly Supervised'
 tagline:             'Writings about stuff'
 description:         'Not sure what this will be about. Will post updates on <a href="https://twitter.com/HermanKamper" target="_blank">Twitter</a>.'
-url:                 https://www.kamperh.com/weaklysupervised/
+url:                 https://www.kamperh.com/weaklysupervised
 baseurl:             ''
 paginate:            5
 permalink:           pretty
