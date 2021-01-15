@@ -26,3 +26,7 @@ Serve locally at <http://localhost:4000/>:
 
     bundle exec jekyll serve
 
+
+References
+----------
+- https://mlampros.github.io/2016/01/31/first-blog-post/
