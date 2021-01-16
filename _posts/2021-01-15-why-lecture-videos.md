@@ -24,8 +24,8 @@ question that has bothered me throughout 2020 has come up again:
 I put this question to other lecturers, students and friends. I summarize some
 of my favourite responses in this post.
 
-![A screenshot from one of the existing lecture
-videos.](/fig/data414_youtube.png)
+![](/fig/data414_youtube.png)
+*A screenshot from one of my existing lecture videos.*
 
 
 Context and framing the question
