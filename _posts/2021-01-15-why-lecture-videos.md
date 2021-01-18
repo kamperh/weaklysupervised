@@ -143,8 +143,8 @@ in recorded videos. (I should admit I love a good rant, but it's not something
 I can do to the same degree in a video recording.)
 
 
-In conclusion: Don't over-value videos
---------------------------------------
+In conclusion: Make videos but also don't over-value them
+---------------------------------------------------------
 The above goals can all be accomplished without making the perfect videos.
 Students will also probably learn a lot more by doing (e.g. in a tutorial or
 practical) than from digesting the content in my (amazing) videos. Moreover, a
