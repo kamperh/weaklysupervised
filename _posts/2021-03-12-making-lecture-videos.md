@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I make lecture videos
-description: I describe my workflow for creating my online lecture videos. My
+description: I describe my workflow for creating online lecture videos. My
     process is tied to an Android tablet and software running on Linux, but
     hopefully some of this should also translate to other platforms as well.
 ---
@@ -12,11 +12,11 @@ channel](https://www.youtube.com/channel/UCBu4J-JIs-UORp5pQ6M48nw).[^2] I think
 [this video](https://youtu.be/zu34zcyAFzU) is a relatively representative
 example.
 
-This post briefly outlines my workflow. I should say that this is specifically
-tied to an Android tablet with a stylus and software running on Linux, which I
-realise might be a bit obscure. But I think it should be possible to translate
-some of the process to other platforms (e.g. capturing the video on an iPad and
-editing it on Windows).
+This post briefly outlines my workflow. My process is specifically tied to an
+Android tablet with a stylus and software running on Linux, which I realize
+might be a bit obscure. But I think it should be possible to translate some of
+the process to other platforms (e.g. capturing the video on an iPad and editing
+it on Windows).
 
 
 Overview of my workflow
