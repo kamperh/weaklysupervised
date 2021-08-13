@@ -43,7 +43,7 @@ testing) and measuring performance in an honest way---the basics of good
 machine learning.
 
 I am currently teaching an [introductory machine learning
-class](http://www.kamperh.com/data414/), and it was encouraging to me to see
+class](https://www.kamperh.com/data414/), and it was encouraging to me to see
 how these key classic concepts still play such a key rule in real practical
 machine learning applications. So this post hopefully also serves as a bit of
 an encouragement for the students taking my class. We need more than just
