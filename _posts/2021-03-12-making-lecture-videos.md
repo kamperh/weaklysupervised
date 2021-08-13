@@ -123,7 +123,7 @@ takes, in which case I would import multiple videos into Shotcut.
 When you start a new project in Shotcut, you can select a `Video mode`. Here we
 need to change things to match the aspect ratio and sizes that we have been
 working with up to here. I normally create a custom video mode by going to
-`Settings` $\rightarrow$ `Video Mode -> Custom -> Add...`. I then select a
+`Settings -> Video Mode -> Custom -> Add...`. I then select a
 resolution of 1568 by 882, an aspect ratio of 16 by 9, and I give the settings
 a name so that I can quickly use it again for future videos.
 

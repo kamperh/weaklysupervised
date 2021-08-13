@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We should teach more than neural networks
+title: Teach more than neural networks
 description: Using as an example a recent paper from Facebook, I argue why we
     should still teach some classic machine learning approaches.
 ---
@@ -16,7 +16,7 @@ data sources:
 
 Their methodology relies on a type of neural networks called a generative
 adversarial network (GAN).[^1]  I don't want to go into all the details here,
-but their short two-minute video on the [blog
+but their short two-minute video on their [blog
 post](https://ai.facebook.com/blog/wav2vec-unsupervised-speech-recognition-without-supervision/)
 gives a relatively good overview of the main idea.
 
@@ -25,14 +25,14 @@ explaining the different components of their system. It also honestly explains
 what they had to do to get the approach to work.[^2]
 
 What was most interesting to me was that, if you read between the lines, it is
-clear that the fancy GAN-based neural network model on its own didn't work out
-of the box. The researchers had to incorporate a number of classic machine
-learning approaches at different points in their system pipeline, and without
-these steps, the overall system didn't work.
+clear that the fancy GAN-based neural network on its own didn't work out of the
+box. The researchers had to incorporate a number of classic machine learning
+approaches at different points in their system pipeline, and without these
+steps, the overall system didn't work.
 
 These classic methods include:
 
-- $K$-means clustering.
+- *K*-means clustering.
 - Principal components analysis (PCA).
 - Very careful data pre-processing, for instance in how they dealt with silences.
 - A hidden Markov model (HMM) gave best self-training results.
